@@ -56,8 +56,7 @@ flowchart TD
     B --> C[🔀 Train-Test Split]
     C --> D[🤖 Train Linear Regression]
     D --> E[🔮 Predict Insurance Charges]
-    E --> F[📏 Evaluate Model]
-    F --> G[MAE · MSE · RMSE]
+    E --> F[📏 Evaluate Model - MAE · MSE · RMSE]
 ```
 
 ## 📈 Model Evaluation
@@ -151,8 +150,6 @@ jupyter notebook
 medical-insurance-cost-estimator/
 ├── data/                 # Dataset (if included)
 ├── notebooks/            # Exploratory analysis and experiments
-├── src/                  # Python source code (if used)
-├── requirements.txt      # Dependencies (if included)
 └── README.md
 ```
 
