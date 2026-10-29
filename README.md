@@ -1,7 +1,3 @@
-from pathlib import Path
-
-readme = r'''<div align="center">
-
 # 🩺 Medical Insurance Cost Estimator
 
 ### Predicting medical insurance charges with machine learning
