@@ -1,3 +1,4 @@
+<div align="center">
 # 🩺 Medical Insurance Cost Estimator
 
 ### Predicting medical insurance charges with machine learning
@@ -167,8 +168,3 @@ This project is for educational purposes only. Predictions are estimates based o
 **Built to practice regression modeling, data analysis, and machine learning evaluation.**
 
 </div>
-'''
-
-out = Path("/mnt/data/README_Medical_Insurance_Cost_Estimator.md")
-out.write_text(readme, encoding="utf-8")
-print(f"Created: {out}")
