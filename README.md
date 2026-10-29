@@ -1,5 +1,6 @@
 <div align="center">
-# 🩺 Medical Insurance Cost Estimator
+    
+# Medical Insurance Cost Estimator
 
 ### Predicting medical insurance charges with machine learning
 
